@@ -1,0 +1,701 @@
+CALL_ID,CUSTOMER_ID,CALL_DATE,TRANSCRIPT
+1,1,2023-07-13,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Wall Clock yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+2,1,2024-10-20,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Bluetooth Speaker and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+3,1,2023-10-28,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Cookbook Collection. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+4,1,2023-10-29,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Throw Blanket. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+5,2,2024-09-21,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Winter Jacket yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+6,2,2024-08-01,"Agent: Hi there, thanks for calling. What can I help with?
+Customer: I've been trying to return my Wireless Headphones for two weeks. The return label you sent didn't work, and when I brought it to the carrier they said it was invalid.
+Agent: I apologize for that. Let me generate a new return label right away.
+Customer: This whole return process has been a nightmare. I just want my refund. If this isn't resolved this week I'm filing a complaint with my credit card company."
+7,2,2023-08-30,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Trail Mix Bundle and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+8,2,2025-01-20,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Trail Mix Bundle and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+9,3,2024-04-27,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Self-Help Guide. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+10,3,2024-12-23,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Winter Jacket. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+11,3,2024-01-07,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Vitamin C Serum shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+12,4,2024-08-20,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Trail Mix Bundle shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+13,4,2024-08-28,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Yoga Mat arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+14,4,2025-02-13,"Agent: Hi, how can I assist you?
+Customer: I want to exchange my Self-Help Guide for a different size. What's the process?
+Agent: Sure thing. I can set up the exchange right now. You'll get a prepaid label by email.
+Customer: Okay, sounds straightforward. Thanks."
+15,4,2025-04-29,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Green Tea Sampler order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+16,5,2024-07-30,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Cookbook Collection. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+17,5,2024-09-29,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Throw Blanket. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+18,5,2024-07-08,"Agent: Hi there, how can I help?
+Customer: I just need to update my shipping address before my Vitamin C Serum order goes out. Is it too late?
+Agent: Let me check... it hasn't shipped yet so I can update it now. What's the new address?
+Customer: Great, I'll give it to you now. Thanks for catching that in time."
+19,5,2024-01-19,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Bestseller Novel and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+20,5,2024-05-02,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Wall Clock shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+21,6,2023-04-16,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Resistance Bands. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+22,6,2023-04-28,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Scented Candle Set shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+23,6,2024-09-09,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Winter Jacket. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+24,7,2023-12-17,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Wall Clock. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+25,7,2025-06-24,"Agent: Thank you for calling. How can I help today?
+Customer: I received the completely wrong item. I ordered a Jump Rope and got something else entirely. Your website return portal keeps giving me an error.
+Agent: That's definitely not the experience we want. Let me get this sorted out.
+Customer: I've wasted two hours trying to fix this myself. Between the wrong item and the broken website, I'm really frustrated. I want this resolved today or I'm disputing the charge."
+26,8,2024-02-05,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Throw Blanket order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+27,8,2025-01-12,"Agent: Good afternoon, how may I help you?
+Customer: I'm calling about my Kitchen Organizer order AGAIN. I was promised a callback from a supervisor last week and never got one. This is my fourth time calling about the same issue.
+Agent: I'm very sorry for the lack of follow-up. Let me take ownership of this.
+Customer: At this point I just want my money back. I've been a customer for two years and I've never been treated this poorly. I'm done."
+28,8,2025-10-29,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Kitchen Organizer. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+29,8,2025-01-13,"Agent: Hi there, how can I help?
+Customer: I just need to update my shipping address before my Trail Mix Bundle order goes out. Is it too late?
+Agent: Let me check... it hasn't shipped yet so I can update it now. What's the new address?
+Customer: Great, I'll give it to you now. Thanks for catching that in time."
+30,9,2023-08-26,"Agent: Welcome to support. What's going on?
+Customer: My Moisturizing Cream arrived completely damaged — the box was crushed and the item doesn't work at all. I've emailed support twice and nobody responded.
+Agent: I'm really sorry to hear that. Let me escalate this for you immediately.
+Customer: This is the second time I've had a quality issue. I've been a loyal customer but I'm losing trust fast. I want a full refund, not a replacement."
+31,9,2024-09-05,"Agent: Hi, how can I assist you?
+Customer: I want to exchange my Hair Styling Kit for a different size. What's the process?
+Agent: Sure thing. I can set up the exchange right now. You'll get a prepaid label by email.
+Customer: Okay, sounds straightforward. Thanks."
+32,9,2023-10-12,"Agent: Good afternoon, how may I help you?
+Customer: I'm calling about my Bestseller Novel order AGAIN. I was promised a callback from a supervisor last week and never got one. This is my fourth time calling about the same issue.
+Agent: I'm very sorry for the lack of follow-up. Let me take ownership of this.
+Customer: At this point I just want my money back. I've been a customer for two years and I've never been treated this poorly. I'm done."
+33,10,2024-07-29,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Winter Jacket shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+34,10,2024-05-25,"Agent: Hi, how can I assist you?
+Customer: I want to exchange my Water Bottle for a different size. What's the process?
+Agent: Sure thing. I can set up the exchange right now. You'll get a prepaid label by email.
+Customer: Okay, sounds straightforward. Thanks."
+35,10,2023-12-10,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Kitchen Organizer. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+36,10,2024-05-23,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Vitamin C Serum. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+37,10,2024-08-01,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Portable Charger order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+38,11,2025-04-16,"Agent: Good afternoon, how may I help you?
+Customer: I'm calling about my History Anthology order AGAIN. I was promised a callback from a supervisor last week and never got one. This is my fourth time calling about the same issue.
+Agent: I'm very sorry for the lack of follow-up. Let me take ownership of this.
+Customer: At this point I just want my money back. I've been a customer for two years and I've never been treated this poorly. I'm done."
+39,11,2025-05-22,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Moisturizing Cream order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+40,11,2024-06-14,"Agent: Hi, how can I assist?
+Customer: You charged me twice for my Bluetooth Speaker! I see two identical charges on my credit card. I called about this three days ago and was told it'd be fixed in 24 hours. Nothing happened.
+Agent: I sincerely apologize for the billing error. Let me escalate this to our finance team.
+Customer: I shouldn't have to call multiple times for your mistake. This is really poor service and it's making me reconsider shopping here."
+41,12,2024-06-13,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Wall Clock order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+42,12,2024-05-12,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Trail Mix Bundle shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+43,12,2024-09-30,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Moisturizing Cream. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+44,12,2025-04-15,"Agent: Welcome to customer support. What can I do for you today?
+Customer: I placed an order for a Portable Charger and I'm wondering when it will arrive. The tracking page isn't loading.
+Agent: Let me look that up. It looks like it's on schedule for delivery next Tuesday.
+Customer: Alright, thanks for checking. I appreciate it."
+45,13,2023-12-08,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Hair Styling Kit shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+46,13,2024-03-30,"Agent: Welcome to customer support. What can I do for you today?
+Customer: I placed an order for a Protein Bar Variety Pack and I'm wondering when it will arrive. The tracking page isn't loading.
+Agent: Let me look that up. It looks like it's on schedule for delivery next Tuesday.
+Customer: Alright, thanks for checking. I appreciate it."
+47,13,2024-06-06,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Vitamin C Serum yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+48,14,2024-11-26,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Running Shoes arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+49,14,2023-10-22,"Agent: Hi there, how can I help?
+Customer: I just need to update my shipping address before my Wireless Headphones order goes out. Is it too late?
+Agent: Let me check... it hasn't shipped yet so I can update it now. What's the new address?
+Customer: Great, I'll give it to you now. Thanks for catching that in time."
+50,14,2025-03-26,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Organic Coffee Beans order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+51,15,2024-01-25,"Agent: Good afternoon, how may I help you?
+Customer: I'm calling about my Throw Blanket order AGAIN. I was promised a callback from a supervisor last week and never got one. This is my fourth time calling about the same issue.
+Agent: I'm very sorry for the lack of follow-up. Let me take ownership of this.
+Customer: At this point I just want my money back. I've been a customer for two years and I've never been treated this poorly. I'm done."
+52,15,2023-10-22,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Bestseller Novel. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+53,15,2024-12-13,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my USB-C Hub. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+54,16,2024-12-18,"Agent: Welcome to customer support. What can I do for you today?
+Customer: I placed an order for a Bestseller Novel and I'm wondering when it will arrive. The tracking page isn't loading.
+Agent: Let me look that up. It looks like it's on schedule for delivery next Tuesday.
+Customer: Alright, thanks for checking. I appreciate it."
+55,16,2024-09-24,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Cotton T-Shirt. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+56,16,2025-01-27,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Wireless Headphones yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+57,16,2024-11-25,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Running Shoes. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+58,16,2025-02-03,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Throw Blanket yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+59,17,2024-05-12,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Fitness Tracker Band. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+60,17,2024-12-16,"Agent: Hi, how can I assist you?
+Customer: I want to exchange my Cookbook Collection for a different size. What's the process?
+Agent: Sure thing. I can set up the exchange right now. You'll get a prepaid label by email.
+Customer: Okay, sounds straightforward. Thanks."
+61,17,2024-06-20,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Bestseller Novel yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+62,17,2024-12-04,"Agent: Hi, how can I assist you?
+Customer: I want to exchange my Wall Clock for a different size. What's the process?
+Agent: Sure thing. I can set up the exchange right now. You'll get a prepaid label by email.
+Customer: Okay, sounds straightforward. Thanks."
+63,18,2024-06-15,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Kitchen Organizer shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+64,18,2025-05-19,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Organic Coffee Beans yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+65,18,2025-10-24,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Protein Bar Variety Pack and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+66,18,2025-11-22,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Green Tea Sampler and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+67,18,2024-10-28,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Sunscreen SPF 50 and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+68,19,2025-02-26,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent USB-C Hub order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+69,19,2024-09-18,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Running Shoes order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+70,19,2024-11-14,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Fitness Tracker Band. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+71,19,2025-04-19,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Water Bottle arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+72,20,2024-04-02,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Green Tea Sampler and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+73,20,2024-12-26,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Water Bottle. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+74,20,2024-08-02,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my History Anthology order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+75,20,2024-06-01,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Science Fiction Box Set yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+76,20,2025-03-31,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Resistance Bands. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+77,21,2023-11-26,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Resistance Bands order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+78,21,2024-01-04,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Hair Styling Kit order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+79,22,2023-04-18,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Cookbook Collection and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+80,22,2024-02-06,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Denim Jeans shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+81,22,2023-11-06,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Winter Jacket. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+82,22,2025-04-05,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Running Shoes. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+83,23,2023-08-07,"Agent: Thank you for calling, how can I help?
+Customer: I've been waiting over three weeks for my Trail Mix Bundle and the tracking hasn't updated in 12 days. This is completely unacceptable.
+Agent: I'm so sorry about that. Let me look into the status right away.
+Customer: I needed this as a gift and now it's too late. Your shipping is terrible. I paid extra for faster delivery and got nothing. I'm seriously considering canceling my account."
+84,23,2024-07-25,"Agent: Thank you for calling. How can I help?
+Customer: Hi, I'm looking at the Vitamin C Serum on your website and wanted to know if it comes in other colors.
+Agent: Great question! Let me check our inventory. We do have a few options available.
+Customer: Okay, thanks. I'll take a look and decide."
+85,23,2024-06-06,"Agent: Hi there, thanks for calling. What can I help with?
+Customer: I've been trying to return my Sunscreen SPF 50 for two weeks. The return label you sent didn't work, and when I brought it to the carrier they said it was invalid.
+Agent: I apologize for that. Let me generate a new return label right away.
+Customer: This whole return process has been a nightmare. I just want my refund. If this isn't resolved this week I'm filing a complaint with my credit card company."
+86,24,2023-03-10,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Denim Jeans yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+87,24,2024-08-09,"Agent: Hi, how can I assist you?
+Customer: I want to exchange my Tablet Stand for a different size. What's the process?
+Agent: Sure thing. I can set up the exchange right now. You'll get a prepaid label by email.
+Customer: Okay, sounds straightforward. Thanks."
+88,24,2024-03-13,"Agent: Good afternoon, how may I help you?
+Customer: I'm calling about my Science Fiction Box Set order AGAIN. I was promised a callback from a supervisor last week and never got one. This is my fourth time calling about the same issue.
+Agent: I'm very sorry for the lack of follow-up. Let me take ownership of this.
+Customer: At this point I just want my money back. I've been a customer for two years and I've never been treated this poorly. I'm done."
+89,24,2025-02-10,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my History Anthology shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+90,25,2024-09-08,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Self-Help Guide shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+91,25,2024-11-13,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Sunscreen SPF 50 order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+92,25,2024-05-20,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Wall Clock. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+93,26,2024-09-21,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Wool Sweater arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+94,26,2024-12-02,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Denim Jeans. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+95,26,2024-12-03,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Wireless Headphones order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+96,27,2025-06-20,"Agent: Thank you for calling. How can I help?
+Customer: Hi, I'm looking at the Perfume Set on your website and wanted to know if it comes in other colors.
+Agent: Great question! Let me check our inventory. We do have a few options available.
+Customer: Okay, thanks. I'll take a look and decide."
+97,27,2025-04-27,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Fitness Tracker Band. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+98,28,2024-05-18,"Agent: Welcome to customer support. What can I do for you today?
+Customer: I placed an order for a Jump Rope and I'm wondering when it will arrive. The tracking page isn't loading.
+Agent: Let me look that up. It looks like it's on schedule for delivery next Tuesday.
+Customer: Alright, thanks for checking. I appreciate it."
+99,28,2025-04-03,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Winter Jacket yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+100,29,2024-03-07,"Agent: Hi there, how can I help?
+Customer: I just need to update my shipping address before my Perfume Set order goes out. Is it too late?
+Agent: Let me check... it hasn't shipped yet so I can update it now. What's the new address?
+Customer: Great, I'll give it to you now. Thanks for catching that in time."
+101,29,2024-02-07,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Cookbook Collection arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+102,29,2025-01-12,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Denim Jeans shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+103,29,2025-04-19,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a History Anthology. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+104,30,2023-06-14,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Wool Sweater. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+105,30,2024-04-22,"Agent: Hi, how can I assist?
+Customer: You charged me twice for my Throw Blanket! I see two identical charges on my credit card. I called about this three days ago and was told it'd be fixed in 24 hours. Nothing happened.
+Agent: I sincerely apologize for the billing error. Let me escalate this to our finance team.
+Customer: I shouldn't have to call multiple times for your mistake. This is really poor service and it's making me reconsider shopping here."
+106,30,2024-05-15,"Agent: Thank you for calling. How can I help?
+Customer: Hi, I'm looking at the Denim Jeans on your website and wanted to know if it comes in other colors.
+Agent: Great question! Let me check our inventory. We do have a few options available.
+Customer: Okay, thanks. I'll take a look and decide."
+107,31,2024-06-02,"Agent: Thank you for calling. How can I help today?
+Customer: I received the completely wrong item. I ordered a Protein Bar Variety Pack and got something else entirely. Your website return portal keeps giving me an error.
+Agent: That's definitely not the experience we want. Let me get this sorted out.
+Customer: I've wasted two hours trying to fix this myself. Between the wrong item and the broken website, I'm really frustrated. I want this resolved today or I'm disputing the charge."
+108,31,2023-10-19,"Agent: Thank you for calling. How can I help today?
+Customer: I received the completely wrong item. I ordered a Protein Bar Variety Pack and got something else entirely. Your website return portal keeps giving me an error.
+Agent: That's definitely not the experience we want. Let me get this sorted out.
+Customer: I've wasted two hours trying to fix this myself. Between the wrong item and the broken website, I'm really frustrated. I want this resolved today or I'm disputing the charge."
+109,32,2023-06-20,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my USB-C Hub. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+110,32,2024-02-18,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Green Tea Sampler yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+111,32,2024-04-16,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Jump Rope arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+112,32,2024-06-14,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Jump Rope. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+113,33,2024-10-22,"Agent: Thank you for calling. How can I help?
+Customer: Hi, I'm looking at the Science Fiction Box Set on your website and wanted to know if it comes in other colors.
+Agent: Great question! Let me check our inventory. We do have a few options available.
+Customer: Okay, thanks. I'll take a look and decide."
+114,33,2024-05-21,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Ceramic Vase shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+115,34,2023-12-29,"Agent: Thank you for calling. How can I help today?
+Customer: I received the completely wrong item. I ordered a Trail Mix Bundle and got something else entirely. Your website return portal keeps giving me an error.
+Agent: That's definitely not the experience we want. Let me get this sorted out.
+Customer: I've wasted two hours trying to fix this myself. Between the wrong item and the broken website, I'm really frustrated. I want this resolved today or I'm disputing the charge."
+116,34,2023-12-07,"Agent: Thank you for calling, how can I help?
+Customer: I've been waiting over three weeks for my Kitchen Organizer and the tracking hasn't updated in 12 days. This is completely unacceptable.
+Agent: I'm so sorry about that. Let me look into the status right away.
+Customer: I needed this as a gift and now it's too late. Your shipping is terrible. I paid extra for faster delivery and got nothing. I'm seriously considering canceling my account."
+117,35,2024-01-03,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Yoga Mat and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+118,35,2023-06-04,"Agent: Welcome to support. What's going on?
+Customer: My Cotton T-Shirt arrived completely damaged — the box was crushed and the item doesn't work at all. I've emailed support twice and nobody responded.
+Agent: I'm really sorry to hear that. Let me escalate this for you immediately.
+Customer: This is the second time I've had a quality issue. I've been a loyal customer but I'm losing trust fast. I want a full refund, not a replacement."
+119,35,2024-11-22,"Agent: Hi there, thanks for calling. What can I help with?
+Customer: I've been trying to return my Tablet Stand for two weeks. The return label you sent didn't work, and when I brought it to the carrier they said it was invalid.
+Agent: I apologize for that. Let me generate a new return label right away.
+Customer: This whole return process has been a nightmare. I just want my refund. If this isn't resolved this week I'm filing a complaint with my credit card company."
+120,36,2023-11-30,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Fitness Tracker Band yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+121,36,2024-08-01,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Protein Bar Variety Pack. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+122,36,2024-03-25,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my USB-C Hub shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+123,36,2025-05-01,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Green Tea Sampler yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+124,36,2025-02-06,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Wall Clock. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+125,37,2023-08-06,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Bluetooth Speaker order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+126,37,2024-08-11,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Vitamin C Serum order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+127,37,2024-01-30,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Perfume Set. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+128,37,2025-01-09,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Throw Blanket order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+129,38,2024-02-22,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Portable Charger. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+130,38,2023-06-25,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Vitamin C Serum. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+131,38,2023-09-12,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Olive Oil Premium yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+132,38,2024-09-15,"Agent: Welcome to customer support. What can I do for you today?
+Customer: I placed an order for a Fitness Tracker Band and I'm wondering when it will arrive. The tracking page isn't loading.
+Agent: Let me look that up. It looks like it's on schedule for delivery next Tuesday.
+Customer: Alright, thanks for checking. I appreciate it."
+133,39,2024-11-09,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Kitchen Organizer. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+134,39,2024-08-16,"Agent: Hi, how can I assist you?
+Customer: I want to exchange my Wool Sweater for a different size. What's the process?
+Agent: Sure thing. I can set up the exchange right now. You'll get a prepaid label by email.
+Customer: Okay, sounds straightforward. Thanks."
+135,40,2023-08-09,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Running Shoes arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+136,40,2024-03-18,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Denim Jeans arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+137,40,2023-11-25,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Running Shoes arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+138,41,2024-01-07,"Agent: Hi there, how can I help?
+Customer: I just need to update my shipping address before my Protein Bar Variety Pack order goes out. Is it too late?
+Agent: Let me check... it hasn't shipped yet so I can update it now. What's the new address?
+Customer: Great, I'll give it to you now. Thanks for catching that in time."
+139,41,2023-08-30,"Agent: Good afternoon, how may I help you?
+Customer: I'm calling about my USB-C Hub order AGAIN. I was promised a callback from a supervisor last week and never got one. This is my fourth time calling about the same issue.
+Agent: I'm very sorry for the lack of follow-up. Let me take ownership of this.
+Customer: At this point I just want my money back. I've been a customer for two years and I've never been treated this poorly. I'm done."
+140,41,2025-01-02,"Agent: Welcome to support. What's going on?
+Customer: My Wireless Headphones arrived completely damaged — the box was crushed and the item doesn't work at all. I've emailed support twice and nobody responded.
+Agent: I'm really sorry to hear that. Let me escalate this for you immediately.
+Customer: This is the second time I've had a quality issue. I've been a loyal customer but I'm losing trust fast. I want a full refund, not a replacement."
+141,42,2024-03-14,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Fitness Tracker Band. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+142,42,2024-10-24,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent USB-C Hub order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+143,42,2024-05-07,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Tablet Stand and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+144,43,2024-05-19,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Running Shoes. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+145,43,2024-02-29,"Agent: Hello, welcome back! I see you're one of our valued customers. What can I help with?
+Customer: Hey! Yeah, I order from you all the time. Just wanted to confirm my Kitchen Organizer shipped.
+Agent: It shipped this morning and should arrive by Thursday.
+Customer: Perfect as always. You guys never disappoint."
+146,43,2024-10-17,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Throw Blanket. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+147,44,2024-04-26,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Science Fiction Box Set. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+148,44,2025-04-26,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Scented Candle Set. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+149,44,2025-11-07,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Olive Oil Premium yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+150,44,2026-01-23,"Agent: Hi, how can I assist you?
+Customer: I want to exchange my History Anthology for a different size. What's the process?
+Agent: Sure thing. I can set up the exchange right now. You'll get a prepaid label by email.
+Customer: Okay, sounds straightforward. Thanks."
+151,44,2025-11-21,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Yoga Mat. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+152,45,2025-06-16,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Green Tea Sampler and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+153,45,2025-05-02,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Vitamin C Serum. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+154,45,2025-01-15,"Agent: Thank you for calling, how can I help?
+Customer: Hi, I just wanted to say my Bestseller Novel arrived and I absolutely love it! The quality exceeded my expectations.
+Agent: That's wonderful to hear! We really appreciate the feedback.
+Customer: Honestly, I've been shopping around for a while and this is the best I've found. I'll definitely be back for more."
+155,45,2024-06-04,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Bluetooth Speaker order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+156,45,2025-06-15,"Agent: Welcome to customer support. What can I do for you today?
+Customer: I placed an order for a Sunscreen SPF 50 and I'm wondering when it will arrive. The tracking page isn't loading.
+Agent: Let me look that up. It looks like it's on schedule for delivery next Tuesday.
+Customer: Alright, thanks for checking. I appreciate it."
+157,46,2023-12-16,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Olive Oil Premium. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+158,46,2024-02-15,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Running Shoes order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+159,46,2024-07-20,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Denim Jeans. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+160,47,2023-11-16,"Agent: Hi there, how can I help?
+Customer: I just need to update my shipping address before my Winter Jacket order goes out. Is it too late?
+Agent: Let me check... it hasn't shipped yet so I can update it now. What's the new address?
+Customer: Great, I'll give it to you now. Thanks for catching that in time."
+161,47,2023-12-01,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Portable Charger order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+162,47,2023-11-11,"Agent: Hi there, thanks for calling. What can I help with?
+Customer: I've been trying to return my Protein Bar Variety Pack for two weeks. The return label you sent didn't work, and when I brought it to the carrier they said it was invalid.
+Agent: I apologize for that. Let me generate a new return label right away.
+Customer: This whole return process has been a nightmare. I just want my refund. If this isn't resolved this week I'm filing a complaint with my credit card company."
+163,48,2024-02-29,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Tablet Stand. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+164,48,2024-03-12,"Agent: Thanks for calling! Anything I can help with today?
+Customer: I just bought a Winter Jacket and I'm wondering if you have any accessories that go with it.
+Agent: Great timing — we actually have a bundle deal running right now. Would you like me to add it to your order?
+Customer: Yes please! I love that you proactively suggest things. Makes shopping so much easier."
+165,48,2024-08-03,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Water Bottle order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+166,48,2023-08-14,"Agent: Welcome to customer support. What can I do for you today?
+Customer: I placed an order for a Cotton T-Shirt and I'm wondering when it will arrive. The tracking page isn't loading.
+Agent: Let me look that up. It looks like it's on schedule for delivery next Tuesday.
+Customer: Alright, thanks for checking. I appreciate it."
+167,48,2023-11-13,"Agent: Thank you for calling. How may I help you today?
+Customer: Hi, I've been a customer for over a year now and just placed my latest order for a Jump Rope. Wanted to check on my loyalty points.
+Agent: Of course! Let me pull that up. You've accumulated quite a few points.
+Customer: Great, I'm saving up for a big purchase. You guys make it easy to keep coming back."
+168,49,2024-03-21,"Agent: Good afternoon, thanks for reaching out. How can I assist you today?
+Customer: I received my Yoga Mat yesterday and the packaging was perfect — got here two days early!
+Agent: That's great to hear. I'll pass that along to our fulfillment team.
+Customer: Please do. Really impressed with the whole experience from ordering to delivery."
+169,49,2025-03-16,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my USB-C Hub order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+170,49,2024-12-06,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Olive Oil Premium. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+171,49,2024-07-07,"Agent: Welcome to customer support. What can I do for you?
+Customer: I had a quick question about my recent Bestseller Novel order. I wanted to see if I could add another item.
+Agent: Absolutely, I can help with that right away. What would you like to add?
+Customer: Perfect, that was so easy. I love how responsive you guys are. Thanks for the quick help!"
+172,50,2024-11-19,"Agent: Hi there, thanks for calling. How can I assist you today?
+Customer: I wanted to check on the return policy for my Bestseller Novel. Not that I want to return it — it's great — just curious.
+Agent: No problem at all! Our return window is 30 days with free shipping on returns.
+Customer: Awesome, that's really generous. Thanks so much!"
+173,50,2024-01-09,"Agent: Welcome to customer support. What can I do for you today?
+Customer: I placed an order for a Self-Help Guide and I'm wondering when it will arrive. The tracking page isn't loading.
+Agent: Let me look that up. It looks like it's on schedule for delivery next Tuesday.
+Customer: Alright, thanks for checking. I appreciate it."
+174,50,2024-11-30,"Agent: Good morning, what can I help you with?
+Customer: I'm trying to use a promo code on my Organic Coffee Beans order but it's not applying.
+Agent: Let me check — it looks like that code expired yesterday. I can offer you a 10% courtesy discount instead.
+Customer: That works. Go ahead and apply it. Thanks."
+175,50,2024-08-30,"Agent: Hi there, how can I help?
+Customer: I just need to update my shipping address before my Kitchen Organizer order goes out. Is it too late?
+Agent: Let me check... it hasn't shipped yet so I can update it now. What's the new address?
+Customer: Great, I'll give it to you now. Thanks for catching that in time."
