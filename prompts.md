@@ -4,7 +4,7 @@
 
 ## Prompt 1 — Load the Data
 
-I have three CSV files sitting on a Snowflake internal stage called @votc_files — customers.csv, transactions.csv, and call_transcripts.csv. Can you help me get this data into Snowflake? Create a database called VOC_LAB with a RAW schema, figure out the right table structures by looking at the files, load everything in, and then just do a quick sanity check — row counts and a few sample rows from each table so I know everything landed correctly.
+I have three CSV files sitting on a Snowflake internal stage called @VOTC_COCO_STAGE — customers.csv, transactions.csv, and call_transcripts.csv. Can you help me get this data into Snowflake? Create a database called VOC_LAB with a RAW schema, figure out the right table structures by looking at the files, load everything in, and then just do a quick sanity check — row counts and a few sample rows from each table so I know everything landed correctly.
 
 ---
 
