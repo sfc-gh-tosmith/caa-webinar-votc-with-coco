@@ -2,6 +2,8 @@
 
 Sample retail customer data for demonstrating Snowflake Cortex AI analytics (sentiment analysis, topic classification, structured extraction) on unstructured customer interactions.
 
+![Voice of the Customer with CoCo Diagram](Voice%20of%20the%20Customer%20with%20CoCo%20Diagram.png)
+
 ## Files
 
 | File | Rows | Description |
