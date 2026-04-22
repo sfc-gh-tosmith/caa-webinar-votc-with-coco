@@ -1,4 +1,4 @@
-# Voice of the Customer — Sample Data
+# Voice of the Customer with Cortex Code
 
 Sample retail customer data for demonstrating Snowflake Cortex AI analytics (sentiment analysis, topic classification, structured extraction) on unstructured customer interactions.
 
